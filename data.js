@@ -23,6 +23,13 @@ var all_course = [
 		]
 	},
 	{
+		course: 'DataConstructure',
+		name: '数据结构(上机)',
+		startDate: [
+			'2018-4-17','2018-5-8', '2018-5-22', '2018-6-5'
+		]
+	},
+	{
 		course: 'cp&sys',
 		name: '计算机组成与系统结构',
 		startDate: [
